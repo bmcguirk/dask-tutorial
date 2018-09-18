@@ -9,5 +9,8 @@ data/accounts.h5
 data/random.hdf5
 data/weather-big
 data/myfile.hdf5
+data/flightjson/
+data/nycflights/
+data/nyc*
 profile.html
 log
